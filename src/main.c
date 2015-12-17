@@ -15,5 +15,7 @@ int main() {
 
   printf("Yet another line from master\n");
   printf("Yet another line from master\n");
+  printf("Yet another line from master\n");
+  printf("Yet another line from master\n");
   return 1;
 }
