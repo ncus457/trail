@@ -18,6 +18,6 @@ int main() {
   printf("Yet another line from master\n");
   printf("Yet another line from master\n");
 
-
+  // post merge comments
   return 0;
 }
